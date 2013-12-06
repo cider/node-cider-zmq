@@ -1,0 +1,11 @@
+{
+  "name": "cider-zmq",
+  "version": "0.0.1",
+  "author": "Ondrej Kupka <ondra.cap@gmail.com>",
+  "description": "ZeroMQ transport for Cider",
+  "dependencies": {
+    "zmq": "*",
+    "msgpack": "*"
+  },
+  "licence": "MIT"
+}
