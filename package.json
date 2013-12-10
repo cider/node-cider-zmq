@@ -5,7 +5,8 @@
   "description": "ZeroMQ transport for Cider",
   "dependencies": {
     "zmq": "*",
-    "msgpack": "*"
+    "msgpack": "*",
+    "q": "*"
   },
   "licence": "MIT"
 }

@@ -20,4 +20,4 @@
   IN THE SOFTWARE.
 */
 
-module.exports = require('./lib');
+module.exports.socket = require('./lib/socket').createSocket;
